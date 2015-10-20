@@ -1,0 +1,74 @@
+/* ionic profile */
+
+.profile-item {
+  text-align: center;
+}
+
+.profile-picture {
+  border: 1px solid rgba(0, 0, 0, 0.25);
+  padding: 3px;
+  border-radius: 100%;
+  -webkit-box-sizing: content-box;
+  -moz-box-sizing: content-box;
+  box-sizing: content-box;
+  margin: 0 auto;
+  width: 128px;
+  height: 128px;
+  overflow: hidden;
+}
+
+.profile-picture img {
+  width: 128px;
+  border-radius: 100%;
+}
+
+.profile-name {
+  padding-top: 20px;
+  font-size: x-large !important;
+  font-weight: bold !important;
+  text-transform: capitalize;
+}
+
+.title {
+	background-color: #003552 !important;
+	color: #00d632 !important;
+	font-size: x-large !important;
+	padding-bottom: 50px;
+	padding-top: 5px;
+	margin-bottom: 50px;
+}
+
+.profile-number {
+	border-top: 2px solid rgba(0, 0, 0, 0.25);
+	border-bottom: 2px solid rgba(0, 0, 0, 0.25);
+	padding: 15px;
+	margin: 10px auto;
+	width: 250px;
+}
+
+.footer {
+	margin: 30px auto;
+	padding: 30px auto;
+	width: 70%;
+}
+
+.something {
+	margin: 100px auto;
+	padding: 100px auto;
+}
+
+/* Accept n Request */
+.custom-icon {
+  color : #006185;
+}
+
+.add:before {
+	font-size: 60px !important;
+	color: #00d632;
+	
+}
+
+.add_footer {
+	margin: 10px auto;
+	padding: 10px auto;
+}
